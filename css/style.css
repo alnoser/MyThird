@@ -7,3 +7,14 @@
     background: green;
     color: beige;
 }
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 20%;
+    height: auto;
+    display: block;
+} 
