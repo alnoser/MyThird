@@ -1,4 +1,9 @@
-    .box{
-        background: blue;
-        color: azure;
-    }
+.box1{
+    background: blue;
+    color: azure;
+}
+
+.box2{
+    background: green;
+    color: beige;
+}
